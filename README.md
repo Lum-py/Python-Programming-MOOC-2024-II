@@ -28,3 +28,21 @@
 - More comprehensions
 - Recursion
 - More recursion examples
+
+### Part 12
+- Functions as arguments
+- Generators
+- Functional programming
+- Regular expressions
+
+### Part 13
+- Pygame
+- Animation
+- Events
+- More pygame techniques
+
+### Part 14
+- Game project
+- Robot and boxes
+- Finishing the game
+- Your own game
